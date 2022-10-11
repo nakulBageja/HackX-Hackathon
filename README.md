@@ -1,4 +1,4 @@
-<h1><strong>This project was awarded 12th position out of 200 projects in <a href="https://www.scaler.com/event/hackx">HackX Scalar Hackathon</a></strong> </h1>
+<h1><strong>This project was awarded 11th position out of 200 projects in <a href="https://www.scaler.com/event/hackx">HackX Scalar Hackathon</a></strong> </h1>
 
 <h2><strong>I will be continuing with this project to help our society! Any contributor is most welcome! 💖</strong></h2>
 
